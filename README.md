@@ -16,5 +16,3 @@ This repo provides free ebooks (.pdf) related to AI &amp; ML content that are or
 - Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka
 - Mathematics for Machine Learning by Marc Peter Deisenroth
 - The Hundred-Page Machine Learning Book by Andriy Burkov
-
-**Note:** All books provided are completely scanned for viruses and malware and all pdf metadata has been removed.
